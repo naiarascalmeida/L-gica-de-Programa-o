@@ -1,0 +1,2 @@
+# L-gica-de-Programa-o
+ALGORITIMOS, DESVIO,  LAÇO - ENQUANTO, PARA, REPITA
